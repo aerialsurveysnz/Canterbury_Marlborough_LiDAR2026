@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "name": "Marlborough_LiDAR2026 - Imagery_Centres",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "xy_coordinate_resolution": 1e-15,
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Project": "FPFA1443",
+                "Proj_Name": "Marlborough & Rivers LiDAR 2026",
+                "Survey_Typ": "LiDAR",
+                "Company_Name": "LINZ",
+                "SN_No": "SN14539",
+                "Description": "Canterbury & Marlborough LiDAR data refresh (Marlborough & Rivers)",
+                "OrthoGSD_m": null,
+                "Point_Dens": "8 ppsm"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.984327359301261,
+                    -41.65019727285533
+                ]
+            }
+        }
+    ]
+}
